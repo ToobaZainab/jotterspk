@@ -1,3 +1,1 @@
-Your Profit Bazar
-
-https://yourprofitbazar.com/
+Jotter.PK Frontend
